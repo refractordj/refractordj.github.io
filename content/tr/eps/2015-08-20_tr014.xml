@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PodcastGenerator>
+		<episode>
+		<titlePG><![CDATA[Trance Refracted #14 | Uplifting Returned]]></titlePG>
+		<shortdescPG><![CDATA[Uplifting has returned on Trance Refracted with this power episode.]]></shortdescPG>
+		<longdescPG><![CDATA[&lt;p&gt;Uplifting has returned on Trance Refracted with this power episode featuring Rising Star, TrancEye, Ferry Corsten in his alias Gouryella, Hamnoy Project and his debut track Early Stages, and a remix of Novus!&lt;/p&gt;]]></longdescPG>
+		<imgPG></imgPG>
+		<categoriesPG>
+		<category1PG>episodes</category1PG>
+		<category2PG></category2PG>
+		<category3PG></category3PG>
+		</categoriesPG>
+		<keywordsPG><![CDATA[trance, refracted, uplifting, tech]]></keywordsPG>
+		<explicitPG>no</explicitPG>
+		<authorPG>
+		<namePG></namePG>
+		<emailPG></emailPG>
+		</authorPG>
+			<fileInfoPG>
+			<size>67.56</size>
+			<duration>1:12:58</duration>
+			<bitrate>128</bitrate>
+			<frequency>44100</frequency>
+			</fileInfoPG>
+		</episode>
+	</PodcastGenerator>
