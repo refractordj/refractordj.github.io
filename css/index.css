@@ -4388,6 +4388,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default {
   background-color: #272b30;
   border-color: #181b1e;
+  box-shadow: 0 0 10px 0 #000;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -6776,10 +6777,28 @@ body {
   background-attachment: fixed;
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
+a {
+    color: inherit;
+    transition: 0.4s;
+}
+a:hover {
+    color: inherit;
+}
 
-div.c1
-{
-    background-image : url('images/banner.jpg');
+div.c1 {
+    background-image : url('../images/banner.jpg');
     background-attachment: fixed;
     background-size: cover;
+}
+
+#nav {
+    transition: 0.4s;
+}
+.navbar-transparent {
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: none;
+}
+.navbar-transparent .navbar-brand {
+    color: rgba(0,0,0,0);
 }
