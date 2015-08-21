@@ -1592,7 +1592,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    /* width: 1170px; */
   }
 }
 .container-fluid {
@@ -4088,7 +4088,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar-collapse {
-    width: auto;
+    width: 100%;
     border-top: 0;
     box-shadow: none;
   }
@@ -6776,3 +6776,10 @@ body {
   background-attachment: fixed;
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
+
+div.c1
+{
+    background-image : url('images/banner.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
